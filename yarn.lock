@@ -7,10 +7,10 @@
   resolved "https://registry.yarnpkg.com/7zip-bin/-/7zip-bin-5.0.3.tgz#bc5b5532ecafd923a61f2fb097e3b108c0106a3f"
   integrity sha512-GLyWIFBbGvpKPGo55JyRZAo4lVbnBiD52cKlw/0Vt+wnmKvWJkpZvsjVoaIolyBXDeAQKSicRtqFNPem9w0WYA==
 
-"@18xx-maker/games@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@18xx-maker/games/-/games-3.0.0.tgz#c96d5cee4ea742c05c159b4b4845d763f73d5916"
-  integrity sha512-KcsMiiwIgHySaqBLPybPFxoq5EHeUrLHqmGaE9HFRNnVLVdxJAXGkRbcGfRZe7YJr+03Y2BS0YfZ3vOqj4wqqQ==
+"@18xx-maker/games@4.0.0-0":
+  version "4.0.0-0"
+  resolved "https://registry.yarnpkg.com/@18xx-maker/games/-/games-4.0.0-0.tgz#78b99f0576b0aa52b5c277215eb41e7522dfd7ba"
+  integrity sha512-d+henaInVBGYRb1dd9EqV8mNc5XT6p1HYA/P+E7dahcjNz+M6ywNAcDQ6vrew+rchYtTeu12MXs1yvh0kVkfEA==
   dependencies:
     ramda "^0.27.0"
 
